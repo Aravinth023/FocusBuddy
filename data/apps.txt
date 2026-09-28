@@ -1,0 +1,6 @@
+# FocusBuddy Monitored Applications
+# Format: AppName|ProcessName|TimeLimitSeconds|CurrentUsageSeconds|Enabled|Blocked|WarningShown
+Google Chrome|chrome.exe|60|0|true|false|false
+Microsoft Edge|msedge.exe|1800|0|true|false|false
+Discord|discord.exe|2700|0|true|false|false
+WhatsApp|whatsapp.exe|1200|0|true|false|false
